@@ -43,7 +43,7 @@ Our tech is **modular and open source**. It is built on open standards and reuse
 <td width="50%" valign="top">
 
 ### 🗳️ MyCandidate
-![Civic Participation](https://img.shields.io/badge/Civic_Participation-6EDABB?style=flat-square) ![Python](https://img.shields.io/badge/Python-2F3542?style=flat-square&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-2F3542?style=flat-square&logo=flask&logoColor=white)
+<a name="chip-1"><img alt="Civic Participation" src="https://img.shields.io/badge/Civic_Participation-6EDABB?style=flat-square"></a> <a name="chip-2"><img alt="Python" src="https://img.shields.io/badge/Python-2F3542?style=flat-square&logo=python&logoColor=white"></a> <a name="chip-3"><img alt="Flask" src="https://img.shields.io/badge/Flask-2F3542?style=flat-square&logo=flask&logoColor=white"></a>
 
 Helps voters find out who is standing for election in their ward and what they stand for. It started at a community civic-tech evening, ran in the South African 2016 and 2021 local elections, and has been **adapted for Kenya, Nigeria and Zimbabwe.**
 
@@ -53,7 +53,7 @@ Helps voters find out who is standing for election in their ward and what they s
 <td width="50%" valign="top">
 
 ### 🔗 MzansiXchange · X-Road tooling
-![Digital Public Infrastructure](https://img.shields.io/badge/Digital_Public_Infrastructure-FAAD00?style=flat-square) ![X-Road](https://img.shields.io/badge/X--Road-2F3542?style=flat-square) ![React](https://img.shields.io/badge/React-2F3542?style=flat-square&logo=react&logoColor=white)
+<a name="chip-4"><img alt="Digital Public Infrastructure" src="https://img.shields.io/badge/Digital_Public_Infrastructure-FAAD00?style=flat-square"></a> <a name="chip-5"><img alt="X-Road" src="https://img.shields.io/badge/X--Road-2F3542?style=flat-square"></a> <a name="chip-6"><img alt="React" src="https://img.shields.io/badge/React-2F3542?style=flat-square&logo=react&logoColor=white"></a>
 
 Open components for South Africa's **MzansiXchange** government data exchange: an ecosystem catalogue for browsing X-Road participants, subsystems and services, and a resumable **bulk data transfer** service built on the TUS protocol.
 
@@ -65,7 +65,7 @@ Open components for South Africa's **MzansiXchange** government data exchange: a
 <td width="50%" valign="top">
 
 ### 🗂️ CKAN extensions
-![Digital Public Infrastructure](https://img.shields.io/badge/Digital_Public_Infrastructure-FAAD00?style=flat-square) ![CKAN](https://img.shields.io/badge/CKAN-2F3542?style=flat-square) ![Python](https://img.shields.io/badge/Python-2F3542?style=flat-square&logo=python&logoColor=white)
+<a name="chip-7"><img alt="Digital Public Infrastructure" src="https://img.shields.io/badge/Digital_Public_Infrastructure-FAAD00?style=flat-square"></a> <a name="chip-8"><img alt="CKAN" src="https://img.shields.io/badge/CKAN-2F3542?style=flat-square"></a> <a name="chip-9"><img alt="Python" src="https://img.shields.io/badge/Python-2F3542?style=flat-square&logo=python&logoColor=white"></a>
 
 Themes and extensions for **CKAN**, the open source data portal used by governments worldwide, including the API catalogue for National Treasury's Secure Data Facility on MzansiXchange.
 
@@ -75,7 +75,7 @@ Themes and extensions for **CKAN**, the open source data portal used by governme
 <td width="50%" valign="top">
 
 ### 🏙️ SCODA: South African Cities Open Data Almanac
-![Data for Cities](https://img.shields.io/badge/Data_for_Cities-D66139?style=flat-square) ![JavaScript](https://img.shields.io/badge/JavaScript-2F3542?style=flat-square&logo=javascript&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-2F3542?style=flat-square&logo=postgresql&logoColor=white)
+<a name="chip-10"><img alt="Data for Cities" src="https://img.shields.io/badge/Data_for_Cities-D66139?style=flat-square"></a> <a name="chip-11"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-2F3542?style=flat-square&logo=javascript&logoColor=white"></a> <a name="chip-12"><img alt="PostGIS" src="https://img.shields.io/badge/PostGIS-2F3542?style=flat-square&logo=postgresql&logoColor=white"></a>
 
 A platform that brings together comparable indicators for South African cities, so planners, researchers and residents can explore how cities are changing.
 
@@ -87,7 +87,7 @@ A platform that brings together comparable indicators for South African cities, 
 <td width="50%" valign="top">
 
 ### 📘 City Data Toolkit
-![Data for Cities](https://img.shields.io/badge/Data_for_Cities-D66139?style=flat-square) ![Jekyll](https://img.shields.io/badge/Jekyll-2F3542?style=flat-square&logo=jekyll&logoColor=white)
+<a name="chip-13"><img alt="Data for Cities" src="https://img.shields.io/badge/Data_for_Cities-D66139?style=flat-square"></a> <a name="chip-14"><img alt="Jekyll" src="https://img.shields.io/badge/Jekyll-2F3542?style=flat-square&logo=jekyll&logoColor=white"></a>
 
 Tools and guidance for city data teams and chief data officers: an open standard, a manual and a website. It was developed with FCDO funding.
 
@@ -97,7 +97,7 @@ Tools and guidance for city data teams and chief data officers: an open standard
 <td width="50%" valign="top">
 
 ### 🧰 Responsible Tech Toolkit
-![Responsible Tech](https://img.shields.io/badge/Responsible_Tech-0984E3?style=flat-square)
+<a name="chip-15"><img alt="Responsible Tech" src="https://img.shields.io/badge/Responsible_Tech-0984E3?style=flat-square"></a>
 
 A practical toolkit based on Responsible Tech Principles. It guides teams that build and deploy technology for government and civil society so that their work has a positive impact on society.
 
@@ -163,6 +163,6 @@ We are grateful for support from the **UK Foreign, Commonwealth & Development Of
 - 🛠️ **Contribute:** read our [Contributing guide](https://github.com/opencitieslab/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/opencitieslab/.github/blob/main/CODE_OF_CONDUCT.md)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/opencitieslab/.github/main/assets/ocl-logomark-color.png" alt="Open Cities Lab logomark" width="140"><br>
+  <a href="https://www.opencitieslab.org/"><img src="https://raw.githubusercontent.com/opencitieslab/.github/main/assets/ocl-logomark-color.png" alt="Open Cities Lab logomark" width="140"></a><br>
   <sub>Open Cities Lab NPC · NPO 255-261 · PBO 930067929 · South Africa</sub>
 </p>
