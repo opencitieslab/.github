@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-labelledby="t d">
+  <title id="t">Open Cities Lab</title>
+  <desc id="d">Open Cities Lab: data and digital systems for public good. Building better cities in Africa since 2015.</desc>
+  <rect width="1280" height="320" fill="#2F3542"/>
+  <!-- decorative city-grid dots -->
+  <g fill="#FFFFFF" opacity="0.05">
+    <circle cx="1060" cy="40" r="120"/>
+    <circle cx="1200" cy="300" r="160"/>
+  </g>
+  <!-- colour stripe -->
+  <rect x="0" y="312" width="427" height="8" fill="#FAAD00"/>
+  <rect x="427" y="312" width="426" height="8" fill="#D66139"/>
+  <rect x="853" y="312" width="427" height="8" fill="#6EDABB"/>
+  <!-- logomark: O C L -->
+  <g font-family="Montserrat, 'Segoe UI', Helvetica, Arial, sans-serif" font-weight="700" text-anchor="middle">
+    <circle cx="120" cy="160" r="52" fill="#FAAD00"/>
+    <text x="120" y="179" font-size="54" fill="#FFFFFF">O</text>
+    <circle cx="236" cy="160" r="52" fill="#D66139"/>
+    <text x="236" y="179" font-size="54" fill="#FFFFFF">C</text>
+    <circle cx="352" cy="160" r="52" fill="#FFFFFF" fill-opacity="0.12" stroke="#FFFFFF" stroke-opacity="0.35" stroke-width="2"/>
+    <text x="352" y="179" font-size="54" fill="#FFFFFF">L</text>
+  </g>
+  <g font-family="Montserrat, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="450" y="128" font-size="52" font-weight="700" fill="#FFFFFF">Open Cities Lab</text>
+    <text x="450" y="178" font-size="28" font-weight="500" fill="#FAAD00">Data &amp; digital systems for public good.</text>
+    <text x="450" y="222" font-size="20" fill="#FFFFFF" fill-opacity="0.8">Open source civic tech &amp; digital public infrastructure for African cities, since 2015</text>
+  </g>
+</svg>

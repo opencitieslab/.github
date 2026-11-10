@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Reuse or partner with Open Cities Lab
+    url: https://www.opencitieslab.org/
+    about: Want to deploy one of our tools in your city or country? Get in touch via our website or hello@opencitieslab.org.
+  - name: Report a security vulnerability
+    url: https://github.com/opencitieslab/.github/blob/main/SECURITY.md
+    about: Please don't report security issues publicly. Follow our security policy instead.
